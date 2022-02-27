@@ -7,8 +7,7 @@
 # GESTION DE CADEAUX
 
 ## Petit résumé
-- Il n’est pas toujours évident pour les autres de trouver les cadeaux qui nous feront
-plaisir ou de trouver des idées de cadeaux pour nos amis et notre famille.
+- Il n’est pas toujours évident de trouver des cadeaux pour les autres et de trouver des idées qui feront plaisir nos amis et notre famille. L'inverse est tout aussi vrai.
 
 ## Objectifs
 - Concevoir une application web pour la gestion des cadeaux de Noël.
